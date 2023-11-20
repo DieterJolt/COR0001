@@ -54,6 +54,13 @@ IP :
 ### 4.3.3 Plc
 ### 4.3.4 Flexibowl
 
+## 4.4 Calibratie
+
+### 4.4.1 Robot
+### 4.4.2 Camera
+### 4.4.3 Plc
+### 4.4.4 Flexibowl
+
 # 5. Instructie voor installatie van een nieuwe unit
 
 
