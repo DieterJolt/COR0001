@@ -9,6 +9,7 @@ link naar manual
 # 2. Hoofdonderdelen
 
 ## 2.1 Robot 
+
 Programma 
 Serienummer :
 Firmware :
@@ -39,13 +40,14 @@ IP :
 
 # 3. Lijst van machines
 
+
 # 4. Service 
 
 ## 4.1 Service ter plaatse
 
 ## 4.2 Service op afstand
 
-## 4.3 Backup 
+## 4.3 Backup / Restore
 
 ### 4.3.1 Robot
 ### 4.3.2 Camera
