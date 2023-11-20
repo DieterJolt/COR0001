@@ -6,7 +6,7 @@ Automatisatie zakjesvulmachine
 
 link naar manual
 
-# 2. Hoofdonderdelen
+# 2. Machine onderdelen
 
 ## 2.1 Robot 
 
