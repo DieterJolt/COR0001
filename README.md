@@ -9,7 +9,7 @@ link naar manual
 # 2. Hoofdonderdelen
 
 ## 2.1 Robot 
-Programma :
+Programma 
 Serienummer :
 Firmware :
 IP : 
